@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Note 1",
+        "text": "Note 1 Text"
+    },
+    {
+        "title": "Note 2",
+        "text": "Note 2 Text"
+    },
+    {
+        "title": "Note 3",
+        "text": "Note 3 Text"
+    },
+    {
+        "title": "New Note ",
+        "text": "Test text for note",
+        "note_id": "8080587a-22a7-4678-b825-8aac13c9dfde"
+    }
+]
